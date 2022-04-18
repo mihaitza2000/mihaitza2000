@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in Python language
 - 🌱 I’m currently learning Python, photo-video editting, MatLab
 - 💞️ I’m looking to collaborate on programming projects
-- 📫 How to reach feel free to message me at mihaiciorobitca95@gmail.com
+- 📫 Feel free to message me at mihaiciorobitca985@gmail.com for future colab 
 
 <!---
 mihaitza2000/mihaitza2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
